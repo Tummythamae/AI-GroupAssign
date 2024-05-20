@@ -8,18 +8,28 @@ Furthermore, metrics such as the mean squared error (MSE) and R-squared coeffic
 Lastly, The model is trained on historical data and deployed using a graphical user interface (GUI) built with Tkinter. Users can input data through the GUI, and the model provides predictions for revenue values for the upcoming fiscal years (2022,2023 and 2024) 
 
 **Contents of the project:**
-Overview of the project
-Data preprocessing steps
-Model training and evaluation
-Hyperparameter tuning using GridSearchCV
-GUI development using Tkinter
+1. Overview of the project
+2. Data preprocessing steps
+3. Model training and evaluation
+4. Hyperparameter tuning using GridSearchCV
+5. GUI development using Tkinter
 
 **Project Dependencies:**
-Python 3.x
-pandas
-scikit-learn
-xgboost
-matplotlib
-seaborn
-tkinter
+1. Python 3.x
+2. pandas
+3. scikit-learn
+4. xgboost
+5. matplotlib
+6. seaborn
+7. tkinter
+
+
+**Group members………………..……(BSCIT Y4S2)**
+1. Reitumetse Thamae 901013912
+2. Mpontseng Lerabe 901013895
+3. Kojang Santi   901013887
+4. Tsepang Tlali 901012269
+
+
+
 
